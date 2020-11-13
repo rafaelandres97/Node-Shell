@@ -2,6 +2,10 @@
 
 // answer();
 
-const newLS = require("./ls.js")
+// const newLS = require("./ls.js")
 
-newLS()
+// newLS()
+
+const cat = require("./cat.js");
+
+cat()
